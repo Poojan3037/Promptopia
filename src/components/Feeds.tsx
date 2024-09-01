@@ -67,7 +67,7 @@ const Feeds = () => {
 
   return (
     <div className="w-full flex-center flex-col">
-      {loading && <Loading />}
+      {/* {loading && <Loading />} */}
       <div className="w-3/5 flex-center">
         <input
           type="text"
